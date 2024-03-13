@@ -1,6 +1,6 @@
-## Olá!! Eu sou o Igor Mauricio Mota 👋
+## Olá!! Eu sou o Igor Mota 👋
 
-- 🎓 Sou Estudante de Analise e Desenvolvimento de Sistemas.
+- 🎓 Estudante de Analise e Desenvolvimento de Sistemas.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
