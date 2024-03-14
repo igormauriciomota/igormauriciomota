@@ -1,5 +1,6 @@
-## Olá!! Eu sou o Igor Mota 👋
+## Olá!! Eu sou Igor Mota 👋
 
+- 🔂 Estou em Transição de carrera.
 - 🎓 Estudante de Analise e Desenvolvimento de Sistemas.
 
 <div style="display: inline_block"><br>
