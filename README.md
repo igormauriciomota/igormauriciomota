@@ -1,6 +1,6 @@
 ## Olá!! Eu sou Igor Mota 👋
 
-- 🔂 Estou em Transição de carrera.
+- 🔂 em busca de aperfeiçoamento contínuo full stack.
 - 🎓 Estudante de Analise e Desenvolvimento de Sistemas.
 
 <div style="display: inline_block"><br>
