@@ -1,7 +1,8 @@
 ## Olá!! Eu sou Igor Mota 👋
 
-- 🔂 em busca de aperfeiçoamento contínuo full stack.
+- 🔂 Buscando aperfeiçoamento contínuo full stack.
 - 🎓 Estudante de Analise e Desenvolvimento de Sistemas.
+- 📊 data analyst
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Igor-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
